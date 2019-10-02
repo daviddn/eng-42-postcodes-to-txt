@@ -15,3 +15,4 @@ Specifications:
 - function that write
 - Handle one error
     - What happens if you put an invalid URL?
+- Good conventions - Naming and file organization/structure
